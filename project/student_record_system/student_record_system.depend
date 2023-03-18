@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1679089968 source:c:\users\dell\desktop\student_record_system\app.c
+	<stdio.h>
+
+1679091868 source:c:\users\dell\desktop\student_record_system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"system.h"
+	"admin.h"
+	"student.h"
+	"app.h"
+
+1679092414 c:\users\dell\desktop\student_record_system\system.h
+
+1679092042 c:\users\dell\desktop\student_record_system\admin.h
+
+1679090177 c:\users\dell\desktop\student_record_system\student.h
+
+1679089994 c:\users\dell\desktop\student_record_system\app.h
+
+1679091855 source:c:\users\dell\desktop\student_record_system\student.c
+	<stdio.h>
+	"system.h"
+	"admin.h"
+	"struct.h"
+
+1679091562 c:\users\dell\desktop\student_record_system\system.c
+	<stdio.h>
+	"system.h"
+
+1679090175 c:\users\dell\desktop\student_record_system\struct.h
+	"system.h"
+
+1679091562 source:c:\users\dell\desktop\student_record_system\system.c
+	<stdio.h>
+	"system.h"
+
+1679091432 source:c:\users\dell\desktop\student_record_system\admin.c
+	<stdio.h>
+	<string.h>
+	"struct.h"
+	"struct1.h"
+	"system.h"
+	"student.h"
+	"admin.h"
+
+1679090172 c:\users\dell\desktop\student_record_system\struct1.h
+
