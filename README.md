@@ -1,5 +1,5 @@
 ﻿# student record system
- It's a C pragramming language project made as a c revision over Embedded systems
+ It's a C pragramming language project made as a c revision Over Embedded systems
  
 this project offer two modes 
 
