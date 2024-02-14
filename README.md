@@ -1,4 +1,6 @@
 ﻿# student record system
+ It's a C pragramming language project made as a c revision over Embedded systems
+ 
 this project offer two modes 
 
 1- Admin mode 
